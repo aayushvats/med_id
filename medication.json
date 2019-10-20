@@ -1,0 +1,161 @@
+{
+  "PMS-Ramipril": {
+    "quantity": "3",
+    "totalQuantity": "4",
+    "refills": "2",
+    "totalRefills": "2",
+    "medication": {
+      "DIN": "02247918",
+      "genericName": "ramipril",
+      "dose": "5mg",
+      "description": "Ramipril is used alone",
+      "sideEffects": []
+    },
+    "surveyResponses": []
+  },
+  "Mylan-Simvastatin": {
+    "quantity": "3",
+    "totalQuantity": "2",
+    "refills": "4",
+    "totalRefills": "4",
+    "medication": {
+      "DIN": "02246584",
+      "genericName": "Simvastatin",
+      "dose": "40mg",
+      "description": "take one tablet once daily",
+      "sideEffects": []
+    },
+    "surveyResponses": []
+  },
+  "Aspirin": {
+    "quantity": "1",
+    "totalQuantity": "3",
+    "refills": "4",
+    "totalRefills": "4",
+    "medication": {
+      "DIN": "02237726",
+      "genericName": "Acetylsalicyclic acid",
+      "dose": "81mg",
+      "description": "take one tablet once daily",
+      "sideEffects": []
+    },
+    "surveyResponses": []
+  },
+  "Apo-Metoprolol": {
+    "quantity": "3",
+    "totalQuantity": "5",
+    "refills": "2",
+    "totalRefills": "2",
+    "medication": {
+      "DIN": "00618632",
+      "genericName": "Metoprolol tartrate",
+      "dose": "00618632",
+      "description": "take one tablet twice a day",
+      "sideEffects": []
+    },
+    "surveyResponses": []
+  },
+  "Pms-Paroxetine": {
+    "quantity": "02247751",
+    "totalQuantity": "12",
+    "refills": "12",
+    "totalRefills": "4",
+    "medication": {
+      "DIN": "02247751",
+      "genericName": "Paroxetine",
+      "dose": "20mg",
+      "description": "take one tablet in the morning",
+      "sideEffects": []
+    },
+    "surveyResponses": []
+  },
+  "Mylan-Temazepam": {
+    "quantity": "4",
+    "totalQuantity": "3",
+    "refills": "5",
+    "totalRefills": "5",
+    "medication": {
+      "DIN": "02225972",
+      "genericName": "Temazepam",
+      "dose": "30mg",
+      "description": "take one capsule in the afternoon",
+      "sideEffects": []
+    },
+    "surveyResponses": []
+  },
+  "Docusate sodium Capsules": {
+    "shouldSendNotifications": "true",
+    "quantity": "3",
+    "totalQuantity": "5",
+    "refills": "3",
+    "totalRefills": "4",
+    "medication": {
+      "DIN": "2367831",
+      "genericName": "Docusate sodium",
+      "dose": "100mg",
+      "description": "take one capsule daily",
+      "sideEffects": []
+    },
+    "surveyResponses": []
+  },
+  "Apo Acetaminophen": {
+    "shouldSendNotifications": "true",
+    "quantity": "3",
+    "totalQuantity": "5",
+    "refills": "2",
+    "totalRefills": "2",
+    "medication": {
+      "DIN": "00545007",
+      "genericName": "Acetaminophen",
+      "dose": "325mg",
+      "description": "take two tablets four times a day",
+      "sideEffects": []
+    },
+    "surveyResponses": []
+  },
+  "Centrum Multivitamin": {
+    "shouldSendNotifications": "true",
+    "quantity": "20",
+    "totalQuantity": "30",
+    "refills": "30",
+    "totalRefills": "30",
+    "medication": {
+      "DIN": "centrum_otc",
+      "genericName": "Multivitamin",
+      "dose": "take one tablet once daily",
+      "description": "30",
+      "sideEffects": []
+    },
+    "surveyResponses": []
+  },
+  "Ventolin HFA": {
+    "shouldSendNotifications": "true",
+    "quantity": "43",
+    "totalQuantity": "34",
+    "refills": "2",
+    "totalRefills": "2",
+    "medication": {
+      "DIN": "02241497",
+      "genericName": "Salbutamol",
+      "dose": "100mcg",
+      "description": "take 2 puffs every 4-6 hours",
+      "sideEffects": []
+    },
+    "surveyResponses": []
+  },
+  "Advair Diskus": {
+    "shouldSendNotifications": "true",
+    "quantity": "34",
+    "totalQuantity": "35",
+    "refills": "2",
+    "totalRefills": "2",
+    "medication": {
+      "DIN": "02240836",
+      "genericName": "Fluticasone/salmeterol",
+      "dose": "250/50mcg",
+      "description": "take one puff daily in the morning",
+      "sideEffects": []
+    },
+    "surveyResponses": []
+  }
+}
