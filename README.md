@@ -31,6 +31,6 @@ The has another functionality where the patient can give the prescription writte
 * Jasmeet Singh - [jasmeet0915](github.com/jasmeet0915)
 * Aayush Vats - [aayushvats](github.com/aayushvats)
 
-## Licence
+## License
 
 This project is licensed under GNU GPL 3.0 - see the [License.md](License.md) file for details.
